@@ -6,7 +6,7 @@ namespace LevelOne
     {
         private static void Main(string[] args)
         {
-            //Something Else
+            //Something Else, Different
             Console.WriteLine("Hello LP!");
         }
     }
