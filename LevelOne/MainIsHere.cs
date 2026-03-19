@@ -10,6 +10,7 @@ namespace LevelOne
             Console.WriteLine("Hello LP!");
             Console.WriteLine("Bad day?");
             Console.WriteLine("Bye!");
+            Console.WriteLine("Gray");
         }
     }
 }
