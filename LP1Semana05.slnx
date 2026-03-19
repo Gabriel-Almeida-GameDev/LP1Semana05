@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LevelOne/LevelOne.csproj" />
+  <Project Path="testes_outra_vez/testes_outra_vez.csproj" />
+</Solution>
