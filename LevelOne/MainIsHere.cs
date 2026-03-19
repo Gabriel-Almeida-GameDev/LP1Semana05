@@ -8,6 +8,8 @@ namespace LevelOne
         {
             //Something Else, Different Than Usual
             Console.WriteLine("Hello LP!");
+            Console.WriteLine("Bad day?");
+            Console.WriteLine("Bye!");
         }
     }
 }
